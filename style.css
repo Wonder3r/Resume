@@ -3,7 +3,7 @@ body {
   background-color: rgba(211, 211, 211, 0.366);
 }
 
-#Top{text-align: center; border-bottom: 4px solid black; margin: -5px -50px;}
+#Top{text-align: center; border-bottom: 3px solid black; margin: -5px -50px; width: 1555px;}
 
 #location, #phone, #email{margin-top: -10px;}
 
