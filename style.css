@@ -1,11 +1,14 @@
 body {
   font-family: verdana;
-  background-color: rgba(192, 91, 29, 0.3);
+  background-color: rgba(211, 211, 211, 0.366);
 }
 
-#Top{text-align: center;}
+#Top{text-align: center; border-bottom: 4px solid black; margin: -5px -50px;}
 
-#email, #phone, #location{margin-bottom: -15px;}
+#location, #phone, #email{margin-top: -10px;}
 
-#box { width: 1200px; margin: auto;}
+.box {width: 1200px; margin: auto;}
 
+h2{color: darkcyan;}
+
+.list{margin-bottom: 10px;}
